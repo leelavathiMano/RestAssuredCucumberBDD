@@ -1,0 +1,6 @@
+com\restassuredcucumberframework\resources\APIResourcesWithEnumClass.class
+com\restassuredcucumberframework\UtilityFiles\Utils.class
+com\restassuredcucumberframework\cucumber\Options\testRunner.class
+com\restassuredcucumberframework\resources\TestDataBuild.class
+com\restassuredcucumberframework\StepDefinitions\stepDefinations.class
+com\restassuredcucumberframework\StepDefinitions\Hooks.class
